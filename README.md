@@ -19,3 +19,20 @@ We need it to make the process lighter and so we can eficientate process of crea
 - It later on install the needed packages and run the mvn package shiping the test practice
 ### Run stage
 - It builds a jar file so we can run the file
+
+## 1-5 
+
+## 1-6
+
+## 1-7
+
+## 1-8
+
+## 1-9
+
+## 2-1  What are testcontainers?
+This are Javalibraries that help you run the container during automated test
+
+## 2-2  For what purpose do we need to use secured variables ?
+This is because github is by default a public space where everyone can add their own info therefore if you want to add sensible information this way it would be protected and open to the public
+
